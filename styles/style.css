@@ -276,7 +276,7 @@
     transform: rotate(0);
   }
   100% {
-    transform: rotate(360deg)
+    transform: rotate(360deg);
   }
 }
 
@@ -397,6 +397,7 @@
 
 .video__iframe {
   margin-right: 20px;
+  border: 0;
 }
 
 .video__iframe:last-child {
@@ -434,7 +435,7 @@
   line-height: 1.15;
   font-size: 60px;
   font-weight: 600;
-  margin: 0 0 50px 0
+  margin: 0 0 50px 0;
 }
 
 .khan__quote {
@@ -442,7 +443,7 @@
   font-size: 24px;
   font-weight: normal;
   width: 790px;
-  margin: 0 0 36px 0
+  margin: 0 0 36px 0;
 }
 
 .khan__quote-author {
@@ -456,7 +457,7 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: normal;
-  margin: 0 0 68px 0
+  margin: 0 0 68px 0;
 }
 
 .khan__book-container {
